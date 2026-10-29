@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/aarushi444/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 ## Customer Accounts Microservice
 
 This project develops a RESTful Customer Accounts microservice using Python and Flask.
